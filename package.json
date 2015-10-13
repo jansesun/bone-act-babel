@@ -1,0 +1,20 @@
+{
+	"name": "bone-act-babel",
+	"version": "0.0.1",
+	"description": "babel compiler for bone",
+	"main": "index.js",
+	"keywords": ["babel", "bone-act-babel"],
+	"author": {
+		"name": "jansesun",
+		"email": "jansesun2113@gmail.com",
+		"web": "https://github.com/jansesun"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jansesun/bone-act-babel.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"babel": "^5.8.0"
+	}
+}
